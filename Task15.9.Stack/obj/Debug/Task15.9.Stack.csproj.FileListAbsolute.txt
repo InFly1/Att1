@@ -1,0 +1,14 @@
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Task15.9.Stack.exe.config
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Task15.9.Stack.exe
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Task15.9.Stack.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Library4Utils.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Library4Utils.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15.9.Stack.csprojResolveAssemblyReference.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15._9.Stack.Form1.resources
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15._9.Stack.Properties.Resources.resources
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15.9.Stack.csproj.GenerateResource.Cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15.9.Stack.csproj.CoreCompileInputs.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15.9.Stack.exe
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\obj\Debug\Task15.9.Stack.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9.Stack\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

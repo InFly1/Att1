@@ -1,0 +1,25 @@
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\bin\Debug\Task16.5Pribor.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\bin\Debug\Task16.5Pribor.exe
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\bin\Debug\Task16.5Pribor.pdb
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\bin\Debug\Library4Utils.dll
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\bin\Debug\Library4Utils.pdb
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16.5Pribor.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16._5Pribor.FormMain.resources
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16._5Pribor.Properties.Resources.resources
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16.5Pribor.csproj.GenerateResource.Cache
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16.5Pribor.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16.5Pribor.exe
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task16.5Pribor\obj\Debug\Task16.5Pribor.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\bin\Debug\Task16.5Pribor.exe.config
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\bin\Debug\Task16.5Pribor.exe
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\bin\Debug\Task16.5Pribor.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\bin\Debug\Library4Utils.dll
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\bin\Debug\Library4Utils.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16.5Pribor.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16._5Pribor.FormMain.resources
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16._5Pribor.Properties.Resources.resources
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16.5Pribor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16.5Pribor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16.5Pribor.csproj.CopyComplete
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16.5Pribor.exe
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task16.5Pribor\obj\Debug\Task16.5Pribor.pdb

@@ -1,0 +1,12 @@
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\bin\Debug\Task15.9Queue.exe.config
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\bin\Debug\Task15.9Queue.exe
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\bin\Debug\Task15.9Queue.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\bin\Debug\Library4Utils.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\bin\Debug\Library4Utils.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15.9Queue.csprojResolveAssemblyReference.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15._9Queue.Form1.resources
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15._9Queue.Properties.Resources.resources
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15.9Queue.csproj.GenerateResource.Cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15.9Queue.csproj.CoreCompileInputs.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15.9Queue.exe
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9Queue\obj\Debug\Task15.9Queue.pdb

@@ -1,0 +1,28 @@
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Task15.9.exe.config
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Task15.9.exe
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Task15.9.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Library4Utils.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Library4Utils.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15.9.csprojResolveAssemblyReference.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15._9.Form1.resources
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15._9.Properties.Resources.resources
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15.9.csproj.GenerateResource.Cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15.9.csproj.CoreCompileInputs.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15.9.exe
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Task15.9\obj\Debug\Task15.9.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\bin\Debug\Task15.9.exe.config
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\bin\Debug\Task15.9.exe
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\bin\Debug\Task15.9.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\bin\Debug\Library4Utils.dll
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\bin\Debug\Library4Utils.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15.9.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15._9.Form1.resources
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15._9.Properties.Resources.resources
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15.9.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15.9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15.9.csproj.CopyComplete
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15.9.exe
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Task15.9\obj\Debug\Task15.9.pdb

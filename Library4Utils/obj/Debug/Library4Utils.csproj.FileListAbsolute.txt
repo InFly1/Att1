@@ -1,0 +1,18 @@
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.csprojResolveAssemblyReference.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.csproj.CoreCompileInputs.cache
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\bin\Debug\Library4Utils.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\bin\Debug\Library4Utils.pdb
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.dll
+C:\Users\Tsar\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.pdb
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\bin\Debug\Library4Utils.dll
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\bin\Debug\Library4Utils.pdb
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.dll
+C:\Users\Uzer\Documents\Visual Studio 2017\Projects\1A_2Semester_Durov_M_A\1A_2Semester_Durov_M_A\Library4Utils\obj\Debug\Library4Utils.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Library4Utils\bin\Debug\Library4Utils.dll
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Library4Utils\bin\Debug\Library4Utils.pdb
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Library4Utils\obj\Debug\Library4Utils.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Library4Utils\obj\Debug\Library4Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Library4Utils\obj\Debug\Library4Utils.dll
+C:\Users\User\Desktop\Проги с# деревья и сортировки\SortAnd1att\1attAndSort\Library4Utils\obj\Debug\Library4Utils.pdb
